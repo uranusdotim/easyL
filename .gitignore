@@ -10,6 +10,7 @@ contracts/cache/
 .env
 .env.*
 !.env.example
+bot/wrangler.toml
 
 # Foundry
 contracts/broadcast/
