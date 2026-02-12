@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/dist/
+contracts/out/
+contracts/cache/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Foundry
+contracts/broadcast/
+
+# IDE / tooling
+.claude/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
