@@ -2,6 +2,8 @@
 
 A tool to improve launchpad token liquidity on Base. easyL pools USDC from depositors into a vault and deploys it as active liquidity on bonding-curve token launches, earning trading returns that flow back to all depositors through an appreciating share price.
 
+[![Demo Video](https://img.youtube.com/vi/oTdnOZ1s79k/maxresdefault.jpg)](https://youtu.be/oTdnOZ1s79k)
+
 ## Architecture
 
 ```
